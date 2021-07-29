@@ -4,8 +4,12 @@ main {
 }
 
 h1 {
-    background-color: blanchedalmond;
-    color: crimson;
+    font-size: xx-large;
+    font-style: italic;
+    border-style: dashed;
+    padding: 15px;
+    background-color: midnightblue;
+    color: turquoise;
     border-style: dashed;
 }
 
@@ -13,4 +17,18 @@ h1 {
     font-family: "Lucida Console", "Courier New", monospace;
     color: rgb(0, 158, 13);
     background-color: khaki;
+}
+
+ol {
+    background-color: aqua;
+    color: black;
+    margin: 15px;
+
+}
+h2 {
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 200;
+    background-color: black;
+    color: gold;
 }
